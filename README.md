@@ -15,5 +15,5 @@ minecraft developer that builds random projects
 ---
 
 <a href="https://www.youtube.com/channel/UCF3vmbBSnJX1VAJpgBO--bA?sub_confirmation=1"><img width="250" src="https://user-images.githubusercontent.com/53126710/117586072-b61a6e80-b0ca-11eb-95d8-6738ead8905a.png"></a>
-<a href="https://www.armenium.io/startrek.mp4"><img width="140" height="140" src="https://user-images.githubusercontent.com/53126710/117586268-0219e300-b0cc-11eb-9b44-5facd504da8d.png"></a>
+<a href="https://www.memum.io/startrek.mp4"><img width="140" height="140" src="https://user-images.githubusercontent.com/53126710/117586268-0219e300-b0cc-11eb-9b44-5facd504da8d.png"></a>
 
