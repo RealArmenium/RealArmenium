@@ -10,7 +10,7 @@ minecraft developer that builds random projects
 - [YouTube](https://www.youtube.com/Armenium)
 - [Twitter](https://www.twitter.com/ArmeniumYT)
 - [SoundCloud](https://www.soundcloud.com/lil-armo/)
-- Discord Tag: `Armenium#8888`
+- Discord Tag: `Armenium#0001`
 
 ---
 
